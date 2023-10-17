@@ -1,7 +1,12 @@
-# Software-Development-Life-Cycles-SDLC-
+# ![hacettepe uni logo](https://user-images.githubusercontent.com/120742291/228499073-c051153a-a1e9-4adc-9bd1-4e3015647017.svg)
+# Programming in Geographic Information Systems - GMT456 -
+### Student Name: Sıla Gerçek
+### Student ID: 21967503
+
+# Software Development Life Cycles (SDLC)
 Software Development Life Cycle (SDLC) is a systematic process for planning, creating, testing, deploying, and maintaining software. There are several models that organizations can adopt, each with its own set of principles and practices. In this report, we will focus on three prominent SDLC models: Waterfall, Iterative, and Agile. Additionally, we will discuss why the Agile model makes more sense for our term project.
 
-##SDLC Models
+## SDLC Models
 ### 1. Waterfall Model:
 The Waterfall model is a linear and sequential approach to software development. It consists of distinct phases, such as requirements, design, implementation, testing, deployment, and maintenance. Each phase must be completed before moving on to the next.
 #### Pros:
@@ -39,7 +44,8 @@ Agile is an iterative and incremental SDLC model that emphasizes flexibility and
 * Complexity: The model can be complex and may require highly skilled personnel for effective implementation.
 * Time and Cost: The iterative nature may lead to longer development times and increased costs.
 
-### ** Choosing the Right Model **
+### **Choosing the Right Model**
+
 In the context of my term project, which involves developing a dynamic web application for a rapidly changing business environment, the Agile model appears to be the most suitable choice. The ability to adapt to changing requirements and deliver incremental value aligns well with the project's goals. Moreover, the continuous collaboration with stakeholders ensures that the project remains closely aligned with the evolving needs of the business.
 
 #### Conclusion
