@@ -39,7 +39,7 @@ Agile is an iterative and incremental SDLC model that emphasizes flexibility and
 * Complexity: The model can be complex and may require highly skilled personnel for effective implementation.
 * Time and Cost: The iterative nature may lead to longer development times and increased costs.
 
-### Choosing the Right Model
+### ** Choosing the Right Model **
 In the context of my term project, which involves developing a dynamic web application for a rapidly changing business environment, the Agile model appears to be the most suitable choice. The ability to adapt to changing requirements and deliver incremental value aligns well with the project's goals. Moreover, the continuous collaboration with stakeholders ensures that the project remains closely aligned with the evolving needs of the business.
 
 #### Conclusion
